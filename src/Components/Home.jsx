@@ -4,20 +4,6 @@ import line from '../Images/line.png'
 function Home() {
     return (
         <>
-
-
-            {/* <div className='mobile-container'>
-                <div class="topnav">
-                    <div id="myLinks">
-                        <a href="">News</a>
-                        <a href="">Contact</a>
-                        <a href="">About</a>
-                    </div>
-                    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-                        <i class="fa fa-bars"></i>
-                    </a>
-                </div>
-            </div> */}
             <div className="header">
                 <div className="language-option">
                     <i class="fa fa-angle-down" aria-hidden="true"></i>
@@ -71,10 +57,11 @@ function Home() {
                 </div> 
                 
             </div>
+            
 
         </>
+
+        
     )
 }
-
-
 export default Home

@@ -6,7 +6,7 @@ function Home() {
         <>
 
 
-            <div className='mobile-container'>
+            {/* <div className='mobile-container'>
                 <div class="topnav">
                     <div id="myLinks">
                         <a href="">News</a>
@@ -17,7 +17,7 @@ function Home() {
                         <i class="fa fa-bars"></i>
                     </a>
                 </div>
-            </div>
+            </div> */}
             <div className="header">
                 <div className="language-option">
                     <i class="fa fa-angle-down" aria-hidden="true"></i>
